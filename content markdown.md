@@ -14,6 +14,7 @@ Bachelor of Science in User Experience & Interaction Design
 Anticipated Graduation: June 2027 			Cumulative GPA: 3.9
 #### PROFESSIONAL SKILL
 Business Software: Microsoft Office (Word, Excel, etc), Google Suite (Docs, Sheets, etc) 
+--
 Design Software: Adobe Creative Cloud (Illustrator, Photoshop, After Effects, Premiere) 
 Languages: Vietnamese
 #### RELEVANT COURSEWORK
