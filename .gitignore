@@ -1,0 +1,6 @@
+#Ignore macOS system files
+.DS_Store
+#Ignore all Photoshop files
+*.psd
+#Ignore all Illustrator files
+*.ai
