@@ -2,24 +2,27 @@
 ## About
 Hi, I’m Vy! I am a student at Drexel University majoring in User Experience and Interaction Design. Through the purpose of user experience, we bridge the gap between technology and art. I strive to design experiences that connect and inspire users everywhere. Digital design is always expanding and I want to contribute to making it more accessible, more enjoyable and easier for everyone to use. Together, let’s explore the potential in UXID to create greater things.
 ## Resume
-<center>Vy Le
+Vy Le
+
 610-570-9932
-vpl26@drexel.edu</center>
-####**EDUCATION**
+
+vpl26@drexel.edu
+
+#### EDUCATION
 Drexel University								Philadelphia, PA
 Bachelor of Science in User Experience & Interaction Design
 Anticipated Graduation: June 2027 			Cumulative GPA: 3.9
-####**PROFESSIONAL SKILL**
+#### PROFESSIONAL SKILL
 Business Software: Microsoft Office (Word, Excel, etc), Google Suite (Docs, Sheets, etc) 
 Design Software: Adobe Creative Cloud (Illustrator, Photoshop, After Effects, Premiere) 
 Languages: Vietnamese
-####**RELEVANT COURSEWORK**
+#### RELEVANT COURSEWORK
 Intro to Web Development
 Computer Imaging I 
 Game Design I 
 Intro to Design I
 Foundational Tools for Animation & VFX
-####**WORK EXPERIENCE**
+#### WORK EXPERIENCE
 *Vanderwende Cream Farmery*					Philadelphia, PA
 
 Ice Cream Server						June 2022 - Present
