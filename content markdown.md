@@ -69,7 +69,9 @@ Collaborated with ESL teacher to compose lesson plans for students that will enr
 
 
 
-![Drawing Exercise](images/Illustrator/Drawing_VyLe.jpg)**Drawing_VyLe**: For this exercise, the purpose of this was to practice pen tool precision and become more familiar with the power the pen tool has. My objective was to make a sketch of any real-life view using the pen tool. I chose a corner of my dorm which contained many intricate lines and folds to really challenge myself when it came to the pen tool. In the end, my precision increased and I became more used to the different usages the pen tool had and learned to use it more efficiently.
+![Drawing Exercise](images/Illustrator/Drawing_VyLe.jpg)
+
+**Drawing_VyLe**: For this exercise, the purpose of this was to practice pen tool precision and become more familiar with the power the pen tool has. My objective was to make a sketch of any real-life view using the pen tool. I chose a corner of my dorm which contained many intricate lines and folds to really challenge myself when it came to the pen tool. In the end, my precision increased and I became more used to the different usages the pen tool had and learned to use it more efficiently.
 
 ![Final Poster](images/Illustrator/FinalPosterPiece_VyLe.png)**FinalPosterPiece**: For the project, my objective was to pick any social issue and to create a campaign poster for it as my final project in one of my graphic design courses. While going through this process, I was supposed to incorporate many of the elements that I learned during the class.
 
@@ -81,6 +83,7 @@ In the end, I was able to come up with this campaign poster for homophobia durin
 **Ninja_VyLe**: For this exercise, the purpose of it was to explore a majority of Adobe Illustrator to become familiar with certain tools and the possibilities the program has. I created these ninjas using the same technique but differing it for each of them to create new poses. Similarly, I also was able to learn new techniques when it came to the weapons that the ninjas hold. I also experimented with stroke weights and adding multiple strokes to create that depth within the characters.
 
 ![Self Portrait Exercise](images/Illustrator/SelfPortrait_VyLe.jpg)
+
 **SelfPortrait_VyLe**: For this exercise, it was inspired by pop art. The main objective was to experiment with colors and include the elements that we see from famous artists such as Andy Warhol. I experimented with patterns and the placements of where I would want them. I also paid attention to shadows and highlights and made sure to include them in this piece.
 
 ![Skull Exercise](images/Illustrator/SkullExercise_VyLe.jpg)**SkullExercise_VyLe**: For this exercise, it was one of my first experiences with Adobe Illustrator so the objective was to mess around with the program and become more used to all the tools it had to offer. I ended up going off of a pink and red color palette to create this skull. I used lots of different tools, techniques, strokes, etc. in this exercise that prepared me for later projects.
