@@ -34,6 +34,7 @@ Philadelphia, PA
 
 
 Ice Cream Server						
+
 June 2022 - Present
 
 Handled cash and credit transactions of up to $800 a day in an efficient manner to satisfy customers Delivered friendly and inviting attitude to customers to provide a positive experience Demonstrated strong communication and teamwork skills among staff to keep an orderly workplace
@@ -45,17 +46,22 @@ Handled cash and credit transactions of up to $800 a day in an efficient manner 
 Philadelphia, PA
 
 
-Assistant							June 2021 - August 2021
+Assistant
+
+June 2021 - August 2021
 
 Facilitated clean and enjoyable environments to satisfy customers Monitored items and restocked when needed to make efficient use of downtime Provided assistance to stylists including sanitizing tools and communicating with clients to contribute to a smoother work flow
 
 
 
 *WorkReady Summer Program*	
-				Philadelphia, PA
+
+Philadelphia, PA
 
 
-ESL Student Leader					June 2019 - August 2019
+ESL Student Leader
+
+June 2019 - August 2019
 
 Collaborated with ESL teacher to compose lesson plans for students that will enrich their skills Listened and answered to students' concerns to help create a more comforting atmosphere Maintained a detailed a spreadsheet of information regarding the classroom and academics to remain organized
 
