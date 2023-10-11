@@ -9,10 +9,12 @@ Vy Le
 vpl26@drexel.edu
 
 #### EDUCATION
-Drexel University								
+Drexel University							
+
 *Philadelphia, PA*
 Bachelor of Science in User Experience & Interaction Design
-Anticipated Graduation: June 2027 			Cumulative GPA: 3.9
+Anticipated Graduation: June 2027		
+Cumulative GPA: 3.9
 #### PROFESSIONAL SKILL
 Business Software: Microsoft Office (Word, Excel, etc), Google Suite (Docs, Sheets, etc) 
 
