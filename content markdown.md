@@ -22,11 +22,7 @@ Design Software: Adobe Creative Cloud (Illustrator, Photoshop, After Effects, Pr
 
 Languages: Vietnamese
 #### RELEVANT COURSEWORK
-Intro to Web Development
-Computer Imaging I 
-Game Design I 
-Intro to Design I
-Foundational Tools for Animation & VFX
+Intro to Web Development, Computer Imaging I, Game Design I, Intro to Design I, Foundational Tools for Animation & VFX
 #### WORK EXPERIENCE
 *Vanderwende Cream Farmery*		
 
