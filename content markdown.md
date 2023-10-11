@@ -72,6 +72,7 @@ Collaborated with ESL teacher to compose lesson plans for students that will enr
 **DesertExercise_VyLe**: For this exercise, the purpose of it was to become more familiar with the gradient tool within Adobe Illustrator. I recreated a desert landscape and experimented with a color palette. Using the different gradients and colors, I was able to create a certain depth in the picture to show the full scenery. I incorporated other skills within the exercise such as precise pen tool use for the small features at the bottom and also other brushes to create the scattered look of stars.
 
 
+
 ![Drawing Exercise](images/Illustrator/Drawing_VyLe.jpg)**Drawing_VyLe**: For this exercise, the purpose of this was to practice pen tool precision and become more familiar with the power the pen tool has. My objective was to make a sketch of any real-life view using the pen tool. I chose a corner of my dorm which contained many intricate lines and folds to really challenge myself when it came to the pen tool. In the end, my precision increased and I became more used to the different usages the pen tool had and learned to use it more efficiently.
 
 ![Final Poster](images/Illustrator/FinalPosterPiece_VyLe.png)**FinalPosterPiece**: For the project, my objective was to pick any social issue and to create a campaign poster for it as my final project in one of my graphic design courses. While going through this process, I was supposed to incorporate many of the elements that I learned during the class.
