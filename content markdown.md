@@ -95,7 +95,9 @@ In the end, I was able to come up with this campaign poster for homophobia durin
 ![Old Photo](images/Photoshop/OldPhoto_VyLe.jpg)
 **OldPhoto_VyLe**: For this project, it was similar to the Dramatic B&W exercise but expanded on those techniques used. The objective was to find a black & white image and fully recolor it. The brush and paint tool were heavily used for this project. Precision and accuracy in color were helpful when completing this as well. While being a tedious project, it allowed me to learn many new techniques to create more of a realistic recolor.
 
-![Asymmetrical Piece](<images/Physical Pieces/AsymmetricalPiece_VyLe.png>)**AsymmetricalPiece_VyLe**: For this project, the main objective was to play around with negative and positive space and then add in another element, the space when B&W were mixed. I looked at a variety of pictures and magazines to then find intricate outlines within the spaces to create new biomorphic and abstract shapes.
+![Asymmetrical Piece](<images/Physical Pieces/AsymmetricalPiece_VyLe.png>)
+
+**AsymmetricalPiece_VyLe**: For this project, the main objective was to play around with negative and positive space and then add in another element, the space when B&W were mixed. I looked at a variety of pictures and magazines to then find intricate outlines within the spaces to create new biomorphic and abstract shapes.
 
 With all my new shapes, I assembled them into a composition that I found interesting enough. After that, I carefully chose what I wanted to be black, white or gray. The project required a large amount of precision since all of the lines were free-handed with paint. In the end, I was able to create an asymmetrical piece that allowed me to introduce myself to mixing positive and negative spaces.
 
@@ -103,11 +105,15 @@ With all my new shapes, I assembled them into a composition that I found interes
 
 Many people came up with themes so that it would be more helpful to create this metamorphosis piece. I chose the two opposing words of “rigid” and “mellow” to depict a sharper and softer side to my piece. From there, I included the elements I encountered in the courses such as the biomorphic shapes, the different grayscale, textures, etc. 
 
-![Paper Pattern](<images/Physical Pieces/PaperPattern_VyLe.png>)**PaperPattern_VyLe**: For this small project, the main objective was to find interesting textures within the real world and transfer that into a piece. The usage of black, white and gray were repeated multiple times in this course to become familiar with the positive and negative space.
+![Paper Pattern](<images/Physical Pieces/PaperPattern_VyLe.png>)
+
+**PaperPattern_VyLe**: For this small project, the main objective was to find interesting textures within the real world and transfer that into a piece. The usage of black, white and gray were repeated multiple times in this course to become familiar with the positive and negative space.
 
 Similar to other pieces, I had to look at pictures and read in between the lines to find interesting silhouettes and shapes that I could use. I created a symmetrical composition and strategically placed where I wanted a pattern or a colored space. The project required precision with free-hand cutting to create the sharp patterns and to keep it symmetrical.
 
-![Symmetrical Piece](<images/Physical Pieces/SymmetricalPiece_VyLe.jpg>)**SymmetricalPiece_VyLe**: For this project, it is another version of my asymmetrical piece that included biomorphic shapes. This version is symmetrical instead. I created the composition of this one to be more intricate to make the symmetry more interesting to look at. I used the different placements of black, white and gray to give some of the abstract shapes a “see-through” effect as well. 
+![Symmetrical Piece](<images/Physical Pieces/SymmetricalPiece_VyLe.jpg>)
+
+**SymmetricalPiece_VyLe**: For this project, it is another version of my asymmetrical piece that included biomorphic shapes. This version is symmetrical instead. I created the composition of this one to be more intricate to make the symmetry more interesting to look at. I used the different placements of black, white and gray to give some of the abstract shapes a “see-through” effect as well. 
 
 
 ## Contact
