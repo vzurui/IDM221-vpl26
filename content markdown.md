@@ -38,6 +38,8 @@ June 2022 - Present
 
 Handled cash and credit transactions of up to $800 a day in an efficient manner to satisfy customers Delivered friendly and inviting attitude to customers to provide a positive experience Demonstrated strong communication and teamwork skills among staff to keep an orderly workplace
 
+
+
 *Juju Salon & Organics*	
 
 Philadelphia, PA
@@ -46,6 +48,8 @@ Philadelphia, PA
 Assistant							June 2021 - August 2021
 
 Facilitated clean and enjoyable environments to satisfy customers Monitored items and restocked when needed to make efficient use of downtime Provided assistance to stylists including sanitizing tools and communicating with clients to contribute to a smoother work flow
+
+
 
 *WorkReady Summer Program*	
 				Philadelphia, PA
