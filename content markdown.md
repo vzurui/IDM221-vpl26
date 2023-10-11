@@ -5,4 +5,6 @@ Hi, I’m Vy! I am a student at Drexel University majoring in User Experience an
 ## Portfolio
 ## Contact
 Let's get in touch!
+
+
 Email me at vpl@drexel.edu with inquiry. From there, we will further discuss the possibilities we have togther.

@@ -4,3 +4,6 @@
 *.psd
 #Ignore all Illustrator files
 *.ai
+#Ignore media files
+*.mov
+*.mp4
