@@ -9,13 +9,15 @@ Vy Le
 vpl26@drexel.edu
 
 #### EDUCATION
-Drexel University								Philadelphia, PA
+Drexel University								
+*Philadelphia, PA*
 Bachelor of Science in User Experience & Interaction Design
 Anticipated Graduation: June 2027 			Cumulative GPA: 3.9
 #### PROFESSIONAL SKILL
 Business Software: Microsoft Office (Word, Excel, etc), Google Suite (Docs, Sheets, etc) 
---
+
 Design Software: Adobe Creative Cloud (Illustrator, Photoshop, After Effects, Premiere) 
+
 Languages: Vietnamese
 #### RELEVANT COURSEWORK
 Intro to Web Development
@@ -24,12 +26,14 @@ Game Design I
 Intro to Design I
 Foundational Tools for Animation & VFX
 #### WORK EXPERIENCE
-*Vanderwende Cream Farmery*					Philadelphia, PA
+*Vanderwende Cream Farmery*					
+Philadelphia, PA
 
 Ice Cream Server						June 2022 - Present
 Handled cash and credit transactions of up to $800 a day in an efficient manner to satisfy customers Delivered friendly and inviting attitude to customers to provide a positive experience Demonstrated strong communication and teamwork skills among staff to keep an orderly workplace
 
-*Juju Salon & Organics*						Philadelphia, PA
+*Juju Salon & Organics*						
+Philadelphia, PA
 Assistant							June 2021 - August 2021
 Facilitated clean and enjoyable environments to satisfy customers Monitored items and restocked when needed to make efficient use of downtime Provided assistance to stylists including sanitizing tools and communicating with clients to contribute to a smoother work flow
 
