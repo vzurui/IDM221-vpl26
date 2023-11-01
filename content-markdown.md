@@ -21,7 +21,7 @@ Business Software: Microsoft Office (Word, Excel, etc), Google Suite (Docs, Shee
 
 Design Software: Adobe Creative Cloud (Illustrator, Photoshop, After Effects, Premiere) 
 
-Languages: Vietnamese
+Additional Language: Vietnamese
 #### RELEVANT COURSEWORK
 Intro to Web Development, Computer Imaging I, Game Design I, Intro to Design I, Foundational Tools for Animation & VFX
 #### WORK EXPERIENCE
