@@ -19,7 +19,8 @@ text-align: center;
 
 
 div {
-    margin: 2em
+    margin: 2em;
+    padding: 2em;
 }
 
 .portfolio img {
@@ -30,7 +31,7 @@ div {
 }
 
 @font-face {
-    font-family: 'Urbanist 1';
+    font-family: 'Urbanist';
     src: url('Urbanist-Regular.eot');
     src: url('Urbanist-Regular.eot?#iefix') format('embedded-opentype'),
         url('Urbanist-Regular.woff2') format('woff2'),
