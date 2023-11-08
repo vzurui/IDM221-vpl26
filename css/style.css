@@ -15,9 +15,7 @@ h3
 {color: #440909;}
 
 .portfolio img {
-    width: 500px;
-    height: 1000px;
-    max-height: auto;
-    max-width: auto;
+    width: 100%;
+    height: auto;
 }
 
