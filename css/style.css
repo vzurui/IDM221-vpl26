@@ -14,10 +14,10 @@ h1
 h3 
 {color: #440909;}
 
-.lol img {
+.portfolio img {
     width: 500px;
     height: 1000px;
     max-height: auto;
-    max-width: 100%;
+    max-width: auto;
 }
 
