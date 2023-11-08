@@ -18,3 +18,7 @@ font-family:Georgia, Helvetica, sans-serif;
     height: auto;
 }
 
+@font-face {
+    font-family: 'Urbanist'
+    src: url('')
+}
