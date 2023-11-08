@@ -9,7 +9,9 @@ p {color: #440909;
 }
 
 h1, h2, h3
-{color: #440909;}
+{color: #440909;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
 
 .portfolio img {
     width: 100%;
