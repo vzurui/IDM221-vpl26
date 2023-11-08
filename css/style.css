@@ -10,15 +10,10 @@ p {color: #440909;
 
 h1, h2, h3
 {color: #440909;
-font-family:Georgia, Helvetica, sans-serif;
+font-family:Urbanist, Georgia, Helvetica, sans-serif;
 }
 
 .portfolio img {
     width: 100%;
     height: auto;
-}
-
-@font-face {
-    font-family: 'Urbanist'
-    src: url('')
 }
