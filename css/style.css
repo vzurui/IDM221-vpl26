@@ -1,7 +1,9 @@
 body {
     background-color: #F4ECEC;
-    text-color: #440909;
-    font-weight: 70;
+}
+
+p {text-color: #440909;
+    font-weight: 70
 }
 
 h1
