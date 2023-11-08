@@ -24,6 +24,8 @@ div {
 .portfolio img {
     width: 100%;
     height: auto;
+    max-width: 800px;
+    
 }
 
 @font-face {
