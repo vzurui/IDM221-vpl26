@@ -2,7 +2,8 @@ body {
     background-color: #F4ECEC;
     color: #440909;
     font-weight: 70;
-    font-size: 1.25em
+    font-size: 1.25em;
+    line-height: 1.4;
 }
 
 p {color: #440909;
@@ -31,3 +32,4 @@ font-family: Urbanist 1, Georgia, Helvetica, sans-serif;
     font-style: normal;
     font-display: swap;
 }
+
