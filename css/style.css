@@ -1,7 +1,7 @@
 body {
     background-color: #F4ECEC;
     color: #440909;
-    font-family:fantasy;
+
     font-weight: 70;
     font-size: 1.25em;
     line-height: 1.4;
@@ -42,3 +42,15 @@ div {
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Almarai';
+    src: url('Almarai-Regular.eot');
+    src: url('Almarai-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Almarai-Regular.woff2') format('woff2'),
+        url('Almarai-Regular.woff') format('woff'),
+        url('Almarai-Regular.ttf') format('truetype'),
+        url('Almarai-Regular.svg#Almarai-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
