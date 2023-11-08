@@ -18,6 +18,9 @@ font-family: Georgia, Helvetica, sans-serif;
 text-align: center;
 }
 
+.WorkExperience {
+    font-size: 1.125em;
+}
 .portfolio img {
     width: 100%;
     height: auto;
