@@ -13,5 +13,7 @@ h3
 .lol img {
     width: 500px;
     height: 1000px;
+    max-height: auto;
+    max-width: 100%;
 }
 
