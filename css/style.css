@@ -26,27 +26,19 @@ h1, h2 {
     padding: 20px;
 }
 
-#illustrator {
+.red-pill {
     background-color:#CB2929;
     border: 1px solid #CB2929;
     border-radius: 30px;
-}
-
-#Photoshop {
-    background-color:#CB2929;
-    border: 1px solid #CB2929;
-    border-radius: 30px;
-}
-
-#PhysicalArt {
-    background-color:#CB2929;
-    border: 1px solid #CB2929;
-    border-radius: 30px;
+    color:#F4ECEC;
+    line-height: 1.75;
+    margin: 1em;
 }
 
 .WorkExperience {
     font-size: 16px;
 }
+
 .portfolio img {
     width: 100%;
     height: auto;
@@ -54,10 +46,32 @@ h1, h2 {
     max-height: 900px;
 }
 
-* {
-    box-sizing: border-box;
+.intro {
+    font-size: 14px;
+font-weight: 100;
+
 }
 
+a:link {
+    color:#F4ECEC;
+    text-decoration:none;
+}
+
+a:hover {
+    color:#F4ECEC;
+    text-decoration: underline;
+}
+
+a:visited {
+    color:#440909;
+}
+
+.search {
+    color:#440909;
+    font-size: 1.5em;
+    text-align:center
+
+}
 @font-face {
     font-family: 'almarai';
     src: url(../fonts/Almarai/Almarai-Regular.ttf) format('truetype');
