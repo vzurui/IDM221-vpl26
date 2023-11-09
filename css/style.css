@@ -49,7 +49,6 @@ h1, h2 {
 .intro {
     font-size: 14px;
 font-weight: 100;
-
 }
 
 a:link {
@@ -63,15 +62,19 @@ a:hover {
 }
 
 a:visited {
-    color:#440909;
+    color:blue;
+}
+
+a.brown:link {
+    color:#440909 !important;
 }
 
 .search {
     color:#440909;
     font-size: 1.5em;
     text-align:center
-
 }
+
 @font-face {
     font-family: 'almarai';
     src: url(../fonts/Almarai/Almarai-Regular.ttf) format('truetype');
