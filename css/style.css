@@ -3,11 +3,10 @@ body {
     color: #440909;
     font-family: almarai, Arial, Helvetica, sans-serif;
     font-weight: 70;
-    font-size: 1.1875em;
+    font-size: 1em;
     margin: 1em;
-    padding: 0 1em;
+    padding: 0 1.5em;
     line-height: 1.4;
-
 }
 
 p {color: #440909;
@@ -20,14 +19,43 @@ h1, h2 {
     text-align: center;
 }
 
+.ProjectSelect {
+    font-size: 1.5em;
+    margin: 3.5em;
+    line-height: 2;
+    padding: 20px;
+}
+
+#illustrator {
+    background-color:#CB2929;
+    border: 1px solid #CB2929;
+    border-radius: 30px;
+}
+
+#Photoshop {
+    background-color:#CB2929;
+    border: 1px solid #CB2929;
+    border-radius: 30px;
+}
+
+#PhysicalArt {
+    background-color:#CB2929;
+    border: 1px solid #CB2929;
+    border-radius: 30px;
+}
+
 .WorkExperience {
-    font-size: 18px;
+    font-size: 16px;
 }
 .portfolio img {
     width: 100%;
     height: auto;
     max-width: 800px;
     max-height: 900px;
+}
+
+* {
+    box-sizing: border-box;
 }
 
 @font-face {
