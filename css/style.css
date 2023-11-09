@@ -1,6 +1,7 @@
 body {
     background-color: #F4ECEC;
     color: #440909;
+    font-family: almarai, Arial, Helvetica, sans-serif;
     font-weight: 70;
     font-size: 1.1875em;
     margin: 1em;
@@ -15,7 +16,7 @@ p {color: #440909;
 
 h1, h2 {
     color: #440909;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: urbanist, Georgia, 'Times New Roman', Times, serif;
     text-align: center;
 }
 
@@ -30,17 +31,180 @@ h1, h2 {
 }
 
 @font-face {
-    font-family: 'Almarai';
+    font-family: 'almarai';
     src: url(../fonts/Almarai/Almarai-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'almarai';
+    src: url('Almarai-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'almarai';
+    src: url('Almarai-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'almarai';
+    src: url('Almarai-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'urbanist';
+    src: url('Urbanist-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'urbanist';
+    src: url(../fonts/Urbanist/Urbanist-Black.ttf) format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'urbanist';
+    src: url('Urbanist-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'urbanist';
+    src: url('Urbanist-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'urbanist';
+    src: url('Urbanist-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'urbanist';
+    src: url('Urbanist-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'urbanist';
+    src: url('Urbanist-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'urbanist';
+    src: url('Urbanist-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'urbanist';
+    src: url('Urbanist-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'urbanist';
+    src: url('Urbanist-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'urbanist';
+    src: url('Urbanist-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'urbanist';
+    src: url('Urbanist-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'urbanist';
+    src: url('Urbanist-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'urbanist';
+    src: url('Urbanist-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'urbanist';
+    src: url('Urbanist-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'urbanist';
+    src: url('Urbanist-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'urbanist';
+    src: url('Urbanist-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Urbanist';
-    src: url(../fonts/Urbanist/Urbanist-Black.ttf) format('truetype');
-    font-weight: 900;
+    font-family: 'urbanist';
+    src: url('Urbanist-Light.ttf') format('truetype');
+    font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
+
+
+
+
