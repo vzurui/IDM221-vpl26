@@ -2,22 +2,25 @@ body {
     background-color: #F4ECEC;
     color: #440909;
     font-family: "almarai", Arial, Helvetica, sans-serif;
-    font-weight: 100;
+    font-weight: 200;
     font-size: 1em;
     margin: 1em;
     padding: 0 1.5em;
     line-height: 1.4;
+    letter-spacing: .75px;
+    word-spacing: 1px;
 }
 
 p {
     color: #440909;
-    font-weight: 70;
+    font-weight: 200;
 }
 
 h1, h2 {
     color: #440909;
     font-family: "urbanist", Georgia, 'Times New Roman', Times, serif;
     text-align: center;
+    letter-spacing: 3px;
 }
 
 h4 {
@@ -25,6 +28,12 @@ h4 {
     font-size: 24px;
     text-align: center;
 }
+
+h3 {
+    margin: 0;
+    padding: 27px 0 5px 0;
+}
+
 .ProjectSelect {
     font-size: 1.5em;
     margin: 3.5em;
@@ -78,9 +87,16 @@ a.brown:visited {
     text-decoration: underline;
 }
 
+a.brown:hover {
+    color:#440909
+}
+
 .search {
     color: #440909;
     font-size: 1.5em;
+    margin: 0;
+    padding: 10px 0 40px 0;
+    word-spacing: 30px;
 }
 
 
