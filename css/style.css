@@ -32,13 +32,14 @@ h4 {
 h3 {
     margin: 0;
     padding: 27px 0 5px 0;
+    text-decoration: underline;
 }
 
 .ProjectSelect {
     font-size: 1.5em;
-    margin: 3.5em;
+    margin: 2.75em;
     line-height: 2;
-    padding: 20px;
+    padding: .75px 0 10px 0;
 }
 
 .red-pill {
@@ -46,8 +47,11 @@ h3 {
     border: 1px solid #CB2929;
     border-radius: 30px;
     color: #F4ECEC;
-    line-height: 1.75;
-    margin: 1em;
+    font-size: 25px;
+    letter-spacing: 2px;
+    line-height: 2.5;
+    margin: 1.5em;
+    padding: 10px 0 10px 0;
 }
 
 .WorkExperience {
