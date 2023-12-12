@@ -13,9 +13,17 @@ body {
 
 p {
     color: #440909;
+    font-family: "almarai", Arial, Helvetica, sans-serif;
+    font-size: 1em;
     font-weight: 500;
-    margin: 1em 0 0 0;
+    margin: 1em 0 -0.5em 0;
+    letter-spacing: .9px;
+    line-height: 1.1;
     text-align: justify;
+}
+
+li {
+    line-height: 2;
 }
 
 h1, h2 {
@@ -32,7 +40,7 @@ h4 {
 }
 
 h3 {
-    margin: 0;
+    margin: 1em 0 -.7em 0;
     padding: 27px 0 5px 0;
     text-decoration: underline;
 }
@@ -57,7 +65,7 @@ h3 {
 }
 
 .WorkExperience {
-    font-size: 16px;
+    font-size: 14.5px;
 }
 
 .portfolio img {
@@ -130,11 +138,20 @@ a.brown:hover {
 
 .bio {
     margin: 2em 0 0 0;
+    line-height: 1.4;
 }
 
 .portfolio img:hover {
     opacity: 0.6;
 
+}
+
+.resumeheader {
+    text-align: center;
+}
+
+.resumearea {
+   margin: 0 0 2.2em 0; 
 }
 
 @font-face {
