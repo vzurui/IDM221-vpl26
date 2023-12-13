@@ -81,7 +81,7 @@ h3 {
 .portfolio {
     line-height: 1.5;
     padding: 0 0 10px 0;
-    margin: 1em 0 5em 0;
+    margin: -2em 0 5em 0;
 }
 
 .portfolio-pics {
@@ -183,6 +183,8 @@ input[type=submit] {
 
 .form {
     margin: 0 0 1.5em 0;
+    letter-spacing: .0px;
+    text-align: center;
 }
 
 footer {
