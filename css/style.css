@@ -138,7 +138,7 @@ a.brown:hover {
 }
 
 .bio {
-    margin: -0.5em 0 0 0;
+    margin: 1.4em 0 -0.2em 0;
     line-height: 1.4;
 }
 
@@ -189,9 +189,15 @@ input[type=submit] {
 }
 
 footer {
-    margin: 4em 0 0 0;
-    text-align: center;
-    background-color: #F4ECEC;
+    margin: 0 0 -2em 0;
+    text-align: left;
+  }
+
+  a.socials {
+    color: #440909;
+    font-size: small;
+    float: right;
+    margin: -2em 0 2em 0;
   }
 
   a.arrow {
@@ -207,6 +213,10 @@ footer {
     margin: -1em 0 -0.75em 0;
 }
 
+hr.solid {
+    border-top: 1.5px solid #440909;
+    margin: 4em 0 1em 0;
+}
 
   /* start of fonts */
 
