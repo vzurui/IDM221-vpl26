@@ -81,12 +81,12 @@ h3 {
 .portfolio {   /* for portfolio spacing between pictures and descriptions */
     line-height: 1.5;
     padding: 0 0 10px 0;
-    margin: -2em 0 1em 0;
+    margin: -3em 0 0.7em 0;
 }
 
-.portfolio-pics {
-    padding: 90px 0 90px 0;
-}
+/* .portfolio-pics {
+    padding: 90px 0 300px 0;
+} */
 
 .intro { /* for index page body text */
     font-family: "urbanist", Arial, Helvetica, sans-serif;
@@ -204,13 +204,13 @@ footer { /* for footer on each page */
     padding: 170px;
   }
 
-  .back img { /* to not have the hover activated when users are on a project page */
+.back img { /* to not have the hover activated when users are on a project page */
     width: 100%;
     height: auto;
     max-width: 800px;
     max-height: 900px;
     padding: 30px 0 0 0;
-    margin: -1em 0 -0.2em 0;
+    margin: -1em 0 -0.5em 0;
 }
 
 hr.solid { /* for divider on footer */
