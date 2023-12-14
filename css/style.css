@@ -98,6 +98,7 @@ h3 {
 
 a:link { /* for links on portfolio */
     color: #F4ECEC;
+    text-decoration: none;
 }
 
 a:hover { /* for hovered links on portfolio */
@@ -181,29 +182,29 @@ input[type=submit] { /* for styling contact "submit" page */
     background-color: #7A635F;
   }
 
-.form {
+.form { /* for contact page body text */
     margin: 0 0 1.5em 0;
     letter-spacing: 0.4px;
     text-align: center;
 }
 
-footer {
+footer { /* for footer on each page */
     margin: 8em 0 0 0;
     text-align: left;
   }
 
-  a.socials {
+  a.socials { /* for links on footer */
     color: #440909;
     font-size: small;
     float: right;
     margin: -2em 0 2em 0;
   }
 
-  a.arrow {
+  a.arrow { /* for back button on portfolio pages */
     padding: 170px;
   }
 
-  .back img {
+  .back img { /* to not have the hover activated when users are on a project page */
     width: 100%;
     height: auto;
     max-width: 800px;
@@ -212,7 +213,7 @@ footer {
     margin: -1em 0 -0.2em 0;
 }
 
-hr.solid {
+hr.solid { /* for divider on footer */
     border-top: 1.5px solid #440909;
     margin: 6em 0 -7.5em 0;
 }
