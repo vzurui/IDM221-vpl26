@@ -198,7 +198,7 @@ footer { /* for footer on each page */
     background-color: #392525;
     color: #F4ECEC;
     margin: 8em -3em -1em -3em;
-    padding: 10px 0 20px 40px;
+    padding: 10px 0 30px 40px;
     text-align: left;
   }
 
@@ -211,9 +211,13 @@ a.socials { /* for links on footer */
     color: #F4ECEC;
     font-size: small;
     float: right;
-    margin: -2.2em 0 2em 0;
+    margin: -2em 0 2em 0;
     padding: 0 40px 0 0;
   }
+
+#projects { /* for overall spacing of buttons */
+    margin: 4em 0 2em 0;
+}
 
 a.arrow { /* for back button on portfolio pages */
     padding: 170px;
