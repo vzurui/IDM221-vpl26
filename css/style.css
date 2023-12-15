@@ -11,7 +11,7 @@ body {
     word-spacing: 1px;
 }
 
- p { 
+p { 
     color: #440909;
     font-family: "almarai", Arial, Helvetica, sans-serif;
     font-size: 1em;
@@ -48,7 +48,7 @@ h3 { /* used on resume sections */
     text-decoration: underline;
 }
 
-.brown-button {   /* for portfolio, select buttons page */
+.brown-button { /* for portfolio, select buttons page */
     background-color: #7A635F;
     border: 1px solid #7A635F;
     border-radius: 40px;
@@ -56,16 +56,16 @@ h3 { /* used on resume sections */
     font-size: 25px;
     letter-spacing: 4px;
     line-height: 1;
-    margin: 1em 4em 2em 4em;
+    margin: 1em 2em 2em 2em;
     padding: 30px 0 30px 0;
     text-align: center;
 }
 
-.WorkExperience {   /* for resume page, varied fonts */
+.WorkExperience {  /* for resume page, varied fonts */
     font-size: 14.5px;
 }
 
-.portfolio img {   /* for resizing images */
+.portfolio img {  /* for resizing images */
     width: 100%;
     height: auto;
     max-width: 800px;
@@ -89,7 +89,7 @@ h3 { /* used on resume sections */
     text-align: left;
 }
 
-#intro-spacing {
+#intro-spacing { /* for index body text */
    margin: 9em 0 -1em 0;
    padding: 0 40px 0 0;
 
@@ -127,12 +127,9 @@ a.brown:hover img { /* for hovered links on navigation bar */
 }
 
 .search {  /* for navigation bar */
-    color: #440909;
-    font-size: 1.5em;
     margin: 0;
-    padding: 5px 0 30px 0;
+    padding: 0 0 15px 0;
     text-align: center;
-    word-spacing: 10px;
 }
 
 .me { /* for about page image */
@@ -142,7 +139,7 @@ a.brown:hover img { /* for hovered links on navigation bar */
     max-width: 800px;
     max-height: 900px;
     padding: 30px 0 0 0;
-    margin: -1.6em 0 -0.2em 2.4em;
+    margin: -1.6em 0 0.5em 2.4em;
 }
 
 .bio { /* for about page body text formatting */
@@ -205,10 +202,10 @@ footer { /* for footer on each page */
   }
 
 #footer-color {
-    color: #F4ECEC ;
+    color: #F4ECEC;
 }
 
-  a.socials { /* for links on footer */
+a.socials { /* for links on footer */
     background-color: #392525;
     color: #F4ECEC;
     font-size: small;
@@ -217,7 +214,7 @@ footer { /* for footer on each page */
     padding: 0 40px 0 0;
   }
 
-  a.arrow { /* for back button on portfolio pages */
+a.arrow { /* for back button on portfolio pages */
     padding: 170px;
   }
 
