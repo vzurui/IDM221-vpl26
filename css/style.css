@@ -127,12 +127,13 @@ a.brown:hover img { /* for hovered links on navigation bar */
 }
 
 .search {  /* for navigation bar */
-    margin: 0 0 1.5em 3em;
+    margin: 0 0 1em 3em;
     padding: 0;
 }
 
 .brown { /* for spacing between each navigation icon */
-    margin: 0 -1em 0 0;
+    margin: 0 -2.5em 0 -3em;
+    padding: 0 10px 0 50px;
 }
 
 .me { /* for about page image */
