@@ -133,8 +133,7 @@ a.brown:hover img { /* for hovered links on navigation bar */
 }
 
 .me { /* for about page image */
-    border-radius: 0;
-    width: 80%;
+    width: 90%;
     height: auto;
     max-width: 800px;
     max-height: 900px;
