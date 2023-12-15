@@ -127,9 +127,12 @@ a.brown:hover img { /* for hovered links on navigation bar */
 }
 
 .search {  /* for navigation bar */
-    margin: 0;
-    padding: 0 0 15px 0;
-    text-align: center;
+    margin: 0 0 1.5em 3em;
+    padding: 0;
+}
+
+.brown { /* for spacing between each navigation icon */
+    margin: 0 -1em 0 0;
 }
 
 .me { /* for about page image */
@@ -148,7 +151,6 @@ a.brown:hover img { /* for hovered links on navigation bar */
 
 .portfolio img:hover { /* for portfolio */
     opacity: 0.6;
-
 }
 
 .resumeheader { /* for resume top section */
